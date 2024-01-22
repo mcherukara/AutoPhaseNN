@@ -3,6 +3,7 @@ scale_I = 1 # normalize diff or not
 N_TRAIN = 5000
 N_VALID = int(0.1*N_TRAIN)
 TRAIN_ratio = 0.9
+N_TEST = 100
 
 
 #File parameters
